@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Label</key>
+	<string>com.AutoWallpaper</string>
+	<key>ProgramArguments</key>
+	<array>
+		<string>/Users/lwx/Desktop/AutoWallpaper/AutoWallpaper.sh</string>
+	</array>
+	<key>StartCalendarInterval</key>
+	<dict>
+		<key>Minute</key>
+		<integer>0</integer>
+		<key>Hour</key>
+		<integer>12</integer>
+	</dict>
+	<key>StandardOutPath</key>
+	<string>/Users/lwx/Desktop/AutoWallpaper/AutoLog.log</string>
+	<key>StandardErrorPath</key>
+	<string>/Users/lwx/Desktop/AutoWallpaper/AutoErrorLog.log</string>
+</dict>
+</plist>
